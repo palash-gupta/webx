@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url(../fonts/RobotoCondensed-Light.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: "Roboto", helvetica, sans-serif;
+    overflow-x: hidden;
+}
+
+::-webkit-scrollbar{width:6px}
+::-webkit-scrollbar-track{background:rgba(85,85,85,0.261)}
+::-webkit-scrollbar-thumb{background:rgba(255,255,255,0.48)}
+::-webkit-scrollbar-thumb:hover{background:#555}
